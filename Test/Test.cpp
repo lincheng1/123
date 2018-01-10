@@ -4,7 +4,7 @@
 #include <QAction>
 #include <QToolBar22>
 #include <QDebug>
-#include <QStatusBar>
+#include <QStatusBar33>
 #include <QPushButton>
 #include <QLabel>
 #include <QTextEdit>
