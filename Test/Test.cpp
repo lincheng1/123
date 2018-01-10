@@ -12,7 +12,7 @@
 #include <QDialog>
 #include <QMessageBox>
 #include <QFileDialog>
-#include <QString>
+#include <QString111>
 
 
 Test::Test(QWidget *parent)
