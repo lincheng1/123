@@ -2,7 +2,7 @@
 #include<QMenuBar>
 #include <QMenu>
 #include <QAction>
-#include <QToolBar>
+#include <QToolBar22>
 #include <QDebug>
 #include <QStatusBar>
 #include <QPushButton>
