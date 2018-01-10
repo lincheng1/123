@@ -1,4 +1,4 @@
-#pragma once
+#pragma once11
 
 #include <QtWidgets/QMainWindow>
 #include "ui_Test.h"
